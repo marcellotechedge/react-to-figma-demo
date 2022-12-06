@@ -1,0 +1,36 @@
+h1.typography {
+/* Welcome! */
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+
+    color: #356DC2;
+}
+
+h3.typography {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+
+    color: #356DC2;
+}
+
+p.typography {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* or 114% */
+    
+    
+    color: #333333;
+}

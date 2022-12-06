@@ -1,0 +1,74 @@
+.destination-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    width: 100%;
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+
+.destination-img {
+    height: auto;
+    width: 100%;
+}
+
+.destination-card-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px;
+    gap: 4px;
+    width: calc(100% - 48px);
+}
+
+.title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+}
+
+.destination-title {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    
+    /* Grey / 600 */
+    
+    color: #6E7491;  
+}
+
+
+.destination-price {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    text-align: right;
+
+    /* Grey / 600 */
+
+    color: #6E7491;
+}
+
+.destination-sub-title {
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+/* Grey / 400 */
+
+color: #7C8DB0;
+}

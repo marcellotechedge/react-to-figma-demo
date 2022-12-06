@@ -1,0 +1,8 @@
+.destination-carousel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 60px; 
+}

@@ -1,0 +1,28 @@
+.btn {
+
+}
+
+.btn-inverted {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    gap: 10px;
+    
+    color: #356DC2;
+    background: #FFFFFF;
+    border: 1px solid #356DC2;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    gap: 10px;
+
+    color: #FFFFFF;
+    background: #356DC2;
+    border-radius: 5px;
+}
